@@ -25,4 +25,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Sass<br>
 <br>
 
-*link => https://marcelfeo.github.io/galleria-sass/
+* Link do projeto => https://marcelfeo.github.io/galleria-sass/
