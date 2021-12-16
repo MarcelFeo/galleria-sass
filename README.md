@@ -20,7 +20,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### **Front-end**
 
 <br>
-- [x] HTML5<br>
+- [x]HTML5<br>
 - [x] CSS3<br>
 - [x] Sass<br>
 <br>
